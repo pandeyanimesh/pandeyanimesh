@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Animesh Pandey  
+![Profile Views](https://komarev.com/ghpvc/?username=pandeyanimesh&label=Profile%20Views&color=0e75b6&style=flat)
 
 🚀 **Software Developer | Problem Solver | Tech Enthusiast**  
 
